@@ -10,59 +10,59 @@ msgstr ""
 
 #, fuzzy
 msgid "Download with FDM"
-msgstr "Pobierz z FDM"
+msgstr "Pobierz w FDM"
 
 #, fuzzy
 msgid "Download selected with FDM"
-msgstr "Pobierz wybrane z FDM"
+msgstr "Pobierz wybrane w FDM"
 
 #, fuzzy
 msgid "Download video with FDM"
-msgstr "Pobierz wideo z FDM"
+msgstr "Pobierz wideo w FDM"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
-msgstr ""
+msgstr "Error: 0x%x. Nie powiódł się transfer do FDM."
 
 msgid "No flash video found. Try reloading this page."
-msgstr ""
+msgstr "Nie znaleziono wideo. Spróbuj odświerzyć tę stronę."
 
 #, qt-format
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "Określona ścieżka jest względna, pełny adres to %1"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 B"
-msgstr ""
+msgstr "%1 B"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 KB"
-msgstr ""
+msgstr "%1 KB"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 MB"
-msgstr ""
+msgstr "%1 MB"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "Ponowne połączenie w &1 sekund"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr ""
+msgstr "Priorytet ustawiony na %1"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "Kolejka: żółwi tryb jest aktywny. Zmień tryb by kontynuować"
 
 msgctxt "Download|"
 msgid "Queued"
-msgstr ""
+msgstr "Zakolejkowany"
 
 #, fuzzy
 msgctxt "DownloadFileInfo|"
@@ -77,12 +77,12 @@ msgstr "Niski"
 #, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Normal"
-msgstr "Normalne"
+msgstr "Normalny"
 
 #, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "High"
-msgstr "Wysoka"
+msgstr "Wysoki"
 
 #, fuzzy
 msgctxt "DownloadInfo|"
@@ -92,12 +92,12 @@ msgstr "Niski"
 #, fuzzy
 msgctxt "DownloadInfo|"
 msgid "Normal"
-msgstr "Normalne"
+msgstr "Normalny"
 
 #, fuzzy
 msgctxt "DownloadInfo|"
 msgid "High"
-msgstr "Wysoka"
+msgstr "Wysoki"
 
 #, fuzzy, qt-format
 msgctxt "HttpError|"
@@ -111,7 +111,7 @@ msgstr "Błąd HTTP %1: %2"
 #, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1"
-msgstr ""
+msgstr "Błąd HTTP %1"
 
 #, fuzzy
 msgctxt "HttpError|"
@@ -121,15 +121,15 @@ msgstr "Nieznany błąd"
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Remote host name not found"
-msgstr "Nie znaleziono nazwy hosta zdalnego"
+msgstr "Nie znaleziono nazwy zdalnego hosta"
 
 msgctxt "HttpError|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "Operacja anulowana"
 
 msgctxt "HttpError|"
 msgid "Remote server closed connection"
-msgstr ""
+msgstr "Serwer zdalny zakończył połączenie"
 
 #, fuzzy
 msgctxt "HttpError|"
@@ -139,7 +139,7 @@ msgstr "Upłynął limit czasu połączenia"
 #, fuzzy
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr "SSL/TLS handshake nie powiodło się"
+msgstr "SSL/TLS handshake nie powiódł się"
 
 #, fuzzy
 msgctxt "HttpError|"
@@ -148,15 +148,15 @@ msgstr "Odmowa połączenia"
 
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
-msgstr ""
+msgstr "Wykryto nieznany błąd sieci"
 
 msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
-msgstr ""
+msgstr "Żądama operacja jest niedozwolona"
 
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "Błędne żądanie"
 
 #, fuzzy
 msgctxt "HttpError|"
@@ -166,35 +166,35 @@ msgstr "Nieautoryzowane"
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Payment Required"
-msgstr "Płatność Wymaganych"
+msgstr "Wymagana płatność"
 
 msgctxt "HttpError|"
 msgid "Forbidden"
-msgstr ""
+msgstr "Zabroniony"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr "Nie Znaleziono"
+msgstr "Nie znaleziono"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr "Metoda Nie Jest Dozwolone"
+msgstr "Metoda jest nie dozwolona"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Not Acceptable"
-msgstr "Nie Do Przyjęcia"
+msgstr "Nie do przyjęcia"
 
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "Wymagane poświadczenie proxy"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr "Limit Czasu Żądania"
+msgstr "Upłynął limit czasu żądania"
 
 #, fuzzy
 msgctxt "HttpError|"
@@ -203,122 +203,122 @@ msgstr "Konflikt"
 
 msgctxt "HttpError|"
 msgid "Gone"
-msgstr ""
+msgstr "Utracono"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr "Długość Wymagane"
+msgstr "Wymagana długość"
 
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "Niepowodzenie warunku"
 
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "Żadana jednostka jest zbyt duża"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr ""
+msgstr "Żadany adres jest zbyt długi"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr "Nieobsługiwany Typ Nośnika"
+msgstr "Nieobsługiwany typ nośnika"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr "Żądany Zakres Невыполним"
+msgstr "Żądany zakres jest niezadowalający"
 
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "Niepowodzenie oczekiwania"
 
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "Jestem czajniczkiem"
 
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "Upłynął czas poświadczenia"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr "Metoda Awarii / Zwiększenia Twojego Spokoju"
+msgstr "Awaria systemu / Zachowaj spokój"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr "Unprocessable Entity"
+msgstr "Nieprzereagowalna jednostka"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr "Zablokowana"
+msgstr "Zablokowane"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr ""
+msgstr "Niepowodzenie zależności / Awaria systemu"
 
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "Niezamówiony odbiór"
 
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "Wymagana aktualizacja"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
-msgstr ""
+msgstr "Wymagany warunek wstępny"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr "Zbyt Wiele Zapytań"
+msgstr "Zbyt wiele żądań"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr "Pola Nagłówka Żądania Są Zbyt Duże"
+msgstr "Żądane pole nagłówka jest zbyt duże"
 
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "Upłynął czas logowania"
 
 msgctxt "HttpError|"
 msgid "No Response"
-msgstr ""
+msgstr "Brak odpowiedzi"
 
 msgctxt "HttpError|"
 msgid "Retry With"
-msgstr ""
+msgstr "Powtórz z"
 
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "Zablokowano przez Ochronę Rodzicielską Widnows"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
-msgstr "Niedostępne Ze Względów Prawnych"
+msgstr "Niedostępne ze względów prawnych"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr "Nagłówka Żądania Są Zbyt Duże"
+msgstr "Żądany nagłówek jest zbyt duży"
 
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "Błąd certyfikatu"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr "Nie Cert"
+msgstr "Brak certyfikatu"
 
 #, fuzzy
 msgctxt "HttpError|"
@@ -328,75 +328,75 @@ msgstr "HTTP do HTTPS"
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr "Wygasły token/nieprawidłowy"
+msgstr "Token wygasł/jest nieprawidłowy"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
-msgstr ""
+msgstr "Klient zakończył żądanie"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr "Wewnętrzny Błąd Serwera"
+msgstr "Wewnętrzny błąd serwera"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr ""
+msgstr "Nie wdrożone"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr "Zła brama"
+msgstr "Zła bramka"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
-msgstr ""
+msgstr "Usługa jest niedostępna"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr "Limit Czasu Bramy"
+msgstr "Upłynął limit czasu bramki"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "Wersja HTTP jest nieobsługiwana"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr "Opcja Również Negocjuje"
+msgstr "Możliwa negocjacja wariantu"
 
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "Niedostateczny nośnik"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr "Zawiasy Wykryte"
+msgstr "Wykryto pętlę"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr "Przepustowość Przekroczony Limit"
+msgstr "Przekroczony limit transferu"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Not Extended"
-msgstr "Nie Przedłużony"
+msgstr "Nie przedłużalny"
 
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "Wymagane poświadczenie sieci"
 
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "Błąd czaasu odczytywania sieci "
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr "Połączenia sieciowe błąd limitu czasu"
+msgstr "Błąd czasu połączenia z siecią"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
